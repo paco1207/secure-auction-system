@@ -1,4 +1,4 @@
-# Secure Auction System (SCC311)
+# Secure Auction System 
 
 A Java-based secure auction system created for the SCC311 module. This version improves upon earlier implementations by adding RSA-based encryption and secure token authentication to ensure privacy and integrity in client-server auction interactions.
 
